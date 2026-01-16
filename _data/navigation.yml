@@ -5,6 +5,8 @@ main:
     url: /publications/
   - title: "Members"
     url: /members/
+  - title: "Philosophy"
+    url: /philosophy/
   - title: "Posts"
     url: /posts/
   - title: "Tags"

@@ -25,6 +25,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "mint"
+minimal_mistakes_skin: "mint"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -61,6 +62,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ericgreenelab/"
+      copyright: "© 2026 Greene Lab @ SFSU" # This replaces the auto-generated line
 
 defaults:
   # _posts
@@ -84,6 +86,8 @@ defaults:
 
 collections:
   research:
+  philosophy:
+    output: true
 
 categories-archive:
   type: liquid

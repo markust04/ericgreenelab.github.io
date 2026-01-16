@@ -18,7 +18,7 @@
 #  website:     https://example.com/
 
 greene-eric:
-  name:        Eric Greene
+  name:        Eric Greene (he/him)
   bio:         Assistant Professor
   
                Department Chemistry and Biochemistry
@@ -33,94 +33,131 @@ greene-eric:
   member:      true
   current:     true
   email:       egreene@sfsu.edu
-  twitter:     EricRGreene1
+  bluesky:     egreene.bsky.social
+
+abdallah-danya:
+  name:        Danya Abdallah (she/her)
+  bio:         3rd year B.S. Biochemistry Student
+  fullbio:     "As a member of the Greene Lab, Danya studies how metabolic enzymes are regulated through protein–protein interactions. Her project focuses on investigating whether argininosuccinate synthetase 1 (ASS1) and argininosuccinate lyase (ASL) form a functional metabolon by expressing, purifying, and testing their combined activity. This work aims to improve our understanding of the regulation of the urea cycle and arginine metabolism.
+
+
+Outside the lab, Danya enjoys spending time with friends, going on walks, and skiing when she needs a break from school.
+
+  "
+  avatar:      /assets/images/abdallah.jpg
+  member:      true
+  current:     true
+
+ahmad-jeanan:
+  name:        Jeanan Ahmad
+  bio:         4th year B.S. Biochemistry Student
+  fullbio:     "Jeanan is currently working on 'Team Argininosuccinate Synthetase (ASS1)' with the goal of understanding the binding of ASS1 to NMRAL1 and seeing how it impacts theh structure and activity of ASS1.
+
+
+  Jeanan loves to go to the beach with her friends and currently serves as a president of a club on campus. Outside of thhe lab, Jeanan loves watching shows and catching up on sleep.
+
+  "
+  avatar:      /assets/images/ahmad.jpg
+  member:      true
+  current:     true
 
 alkabbani-haneen:
-  name:        Haneen Alkabbani
-  bio:         Sophomore CSU LSAMP Scholar pursuing B.S. and M.S. in Biochemistry
-  fullbio:     "Haneen Alkabbani is a sophomore pursuing a Bachelor of Science in Biochemistry at San Francisco State University. As a dedicated member of 'Team Oxidation' and 'Team Opposite Enzymes' Haneen contributes to each research project aimed at exploring how enzymes are regulated.
+  name:        Haneen Alkabbani (she/her)
+  bio:         3rd year B.S. Biochemistry Student
+  fullbio:     "Haneen Alkabbani is a junior pursuing a Bachelor of Science in Biochemistry at San Francisco State University. As a dedicated member of 'Team Opposite Enzymes' she contributes  research project aimed at exploring how enzymes are regulated. She is a Genentech Foundation and CSU-SPA (formerly LSAMP) scholar.
 
 
-     Outside the lab and classroom, Haneen enjoys exploring San Francisco with friends, often discovering new coffee shops around the city."
+     Outside the lab and classroom, she enjoys exploring San Francisco with friends, often discovering new coffee shops around the city."
   avatar:      /assets/images/Alkabbani.jpg
   member:      true
   current:     true
 
 bautista-andrew:
-  name:        Andrew Bautista
-  bio:         First year graduate student pursuing M.S. in Biochemistry
+  name:        Andrew Bautista (he/him)
+  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
   fullbio:     "Andrew is pursuing his Master's degree in Biochemistry studying the mechanism behind posttranslational modification dependent inhibition of bacterial glutamine synthetase. Andrew received a B.S. with summa cum laude honors in Biochemistry from SF State in 2024 and, after excelling at protein biochemistry in his coursework, opted to pursue a graduate degree in the Greene lab. "
   avatar:      /assets/images/Bautista.jpg
   member:      true
   current:     true
 
+domingo-jerrade:
+  name:        Jerrade Domingo (he/him)
+  bio:         4th year B.S. Biochemistry Student
+  fullbio:     "Jerrade is studying the mechanisms behind post-translational modifications, specifically S-nitrosylation, with a focus on the Cys-132 (C132) and how it inhibits argininosuccinate synthetase 1 (ASS1) activity. C132 variants of interest to observe oxidation dependent activity of ASS1.
+
+
+  In his spare time Jerrade loves to play basketball, try new and weird coffee, and wrestle with his annoying dog.
+
+  "
+  avatar:      /assets/images/domingo.jpg
+  member:      true
+  current:     true
+
 geluz-cyrina:
-  name:        Cyrina Geluz
-  bio:         Senior pursuing B.S. in Biochemistry
-  fullbio:     "Cyrina is pursuing a B.S. in Biochemistry at San Francisco State University and was one of the first members of the nascent Greene lab. An expert in protein visualization and biochemistry, Cyrina has contributed invaluably to 'Team Oxidation', 'Team Opposite Enzymes', and works independently to support the lab."
+  name:        Cyrina Geluz (she/her)
+  bio:         4th year B.S. Biochemistry Student
+  fullbio:     "Cyrina is pursuing a B.S. in Biochemistry at San Francisco State University and is one of the first members of the once nascent Greene lab. She is an expert in protein visualization and biochemistry, having worked on several projects including bioinformatics focused on exploring human glutamine synthetase. Currently, she is working on investigating a conserved oligomeric interface in human glutamine synthetase and the impact of disease variants at this interface.
+
+
+  Outside of the lab, Cyrina enjoys exploring the Bay Area and shopping for pens!"
   avatar:      /assets/images/Geluz.jpg
   member:      true
   current:     true
 
 gurung-lucky:
-  name:        Lucky Gurung
-  bio:         Junior pursuing B.S. in Biochemistry
-  fullbio:     "
+  name:        Lucky Gurung (she/her)
+  bio:         3rd year B.S. Biochemistry Student
+  fullbio:     "Lucky is a junior pursuing a degree in Biochemistry. As a member of the Greene lab she works on Argininosuccinate Synthetase 1 (ASS1), a pivotal enzyme in the urea cycle and arginine biosynthesis. She is specifically investigating the consequences of post-translational modifications (PTMs) to ASS1 utilizing kinetic analyses with hopes of studying structural effects through cryo-EM.
 
-  Full bio coming soon
+
+  Outside of the lab, she enjoys painting, reading, and hiking. Lucky made it a whooping 4050 meters (~13,287 feet) above sea level!
   
   "
-  avatar:      /assets/images/404cat.jpg
+  avatar:      /assets/images/gurung.jpg
   member:      true
   current:     true
 
 hernandez-emily:
-  name:        Emily Hernandez
-  bio:         SEO scholar pursuing M.S. in Biochemistry
-  fullbio:     "I am a First Gen Latina, and first year Master's Student I got my Bachelor's of Science in Biochemistry with a minor in Race and Resistance this last Spring. During my undergrad I did Biochemistry research with Dr. Greene in the Greene lab. 
+  name:        Emily Hernandez (she/her)
+  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
+  fullbio:     "Emily is a First Gen Latina, and second year Master's Student. Emily received her Bachelor's of Science in Biochemistry with a minor in Race and Resistance at San Francisco State University. During her undergraduate career she completed biochemistry research with Dr. Greene in the Greene lab.
   
   
-  Continuing my work with him as a graduate student, I am studying Tau protein amyloid conformations in diseases by inducing fibril formation with chemicals like sodium alginate and analyzing their structures using Cryo-EM. I'm also part of SEO as an NIH-Bridge MS Scholar and Secretary of the Chemistry and Biochemistry Student Association here on campus. Outside of school I love to travel, my most recent trip was a solo trip to Japan!
+  Continuing her work with him as a graduate student, she is studying Tau protein amyloid conformations in diseases by inducing fibril formation with chemicals like sodium alginate and analyzing their structures using Cryo-EM. Emily is also part of SEO as an NIH-Bridge MS Scholar and Secretary of the Chemistry and Biochemistry Student Association here on campus. Outside of school she loves to travel. Her most recent trip was a solo trip to Japan!
   "
   avatar:      /assets/images/Hernandez.jpg
   member:      true
   current:     true
 
 jacobs-rowan:
-  name:        Rowan Jacobs
-  bio:         First year graduate student pursuing M.S. in Biochemistry
+  name:        Rowan Jacobs (he/him)
+  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
   fullbio:     "Rowan is working on high throughput screening of cytosolic metabolites for allosteric activity affecting GS. 
   
   
   When not in the lab, he enjoys video games, spending time with his cat, and listening to electronic music.
   "
-  avatar:      /assets/images/Jacobs.png
+  avatar:      /assets/images/jacobs.jpg
   member:      true
   current:     true
 
-leung-ryan:
-  name:        Ryan Leung
-  bio:         4th Year SF State Scholar pursuing B.S. and M.S. in Biochemistry
-  fullbio:     "Evaluating cytosolic metabolites for their potential allosteric modulation of glutamine synthetase. 
+sherry-patrick:
+  name:        Patrick Sherry (he/him)
+  bio:         1st year M.S. student in Chemistry (conc in Biochemistry)
+  fullbio:     "Patrick is a first-year graduate student pursuing his M.S. in chemistry with an emphasis in biochemistry, and received his undergraduate degree in biochemistry from CSU Chico. He is part of the team ‘opposite enzymes’, studying transhydrogenase systems as a solution to balance NADPH and NADH concentrations.
 
-  
-  In my free time I build plastic model kits, play tabletop/video games, and play tennis."
-  avatar:      /assets/images/Leung.png
-  member:      true
-  current:     true
 
-mejia-emilio:
-  name:        Emilio Mejia
-  bio:         SF State Scholar with B.S. in Biochemistry (limited lab affiliation)
-  fullbio:     "Glutamine synthetase disease variant wrangler with expertise in cryo-EM structure determination and enzymology from Greene lab and mass spectrometry from UCSF. Emilio graduated in Spring of 2025 and is loosely affiliated with the lab to finalize a few experiments."
-  avatar:      /assets/images/Emilio@300x-100.jpg
+In his free time, Patrick enjoys going on hikes, exploring the city, traveling, and spending time with friends.
+
+  "
+  avatar:      /assets/images/sherry.png
   member:      true
   current:     true
 
 tecson-markus:
-  name:        Markus Tecson
-  bio:         SF State Scholar pursuing B.S. and M.S. in Biochemistry
-  fullbio:     "Markus is using a combination of biochemical, biophysical, and computational techniques to explore how human glutamine synthetase communicates through allosteric pathways. This enzyme plays a key role in both cancer and neurodegenerative diseases, making the discoveries especially exciting for future therapies. In addition to being an SF State Scholar, I am a NIH U-RISE, NSF CSU-LSAMP Fellow, and McKinney Scholar.
+  name:        Markus Tecson (he/him)
+  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
+  fullbio:     "Markus is interested in using a combination of biochemical, biophysical, and computational techniques to explore how changes to a conserved interface in Human Glutamine Synthetase impacts oligomerization and activity. This enzyme plays a key role in both cancer and neurodegenerative diseases, making the discoveries especially exciting for future therapies. In addition to being an SF State Scholar, Markus is a joint NIH Bridges to Doctorates Fellow and Genentech Foundation MS Scholar.
 
 
      Outside of the lab, Markus loves to spend time with his cat and play video games. He is also an avid photographer, runner, and pretends to know how to play piano!
@@ -132,21 +169,36 @@ tecson-markus:
   current:     true
 
 von-Merta-Sustarich-Michelle:
-  name:        Michelle Von Merta-Sustarich
-  bio:         First year graduate student pursuing M.S. in Biochemistry
-  fullbio:     "
-Michelle Von Merta-Sustarich is pursuing her M.S. in Biochemistry and received her bachelor’s in Biochemistry from University of California Berkeley. Her research is focusing on ensemble-function relationships governing Argininosuccinate synthase regulation and how it relates to cancer. 
+  name:        Michelle Von Merta-Sustarich (she/her)
+  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
+  fullbio:     "Michelle Von Merta-Sustarich is pursuing her M.S. in Biochemistry and received her bachelor’s in Biochemistry from University of California Berkeley. Her research is focusing on ensemble-function relationships governing Argininosuccinate synthase regulation and how it relates to cancer.
 
 
-Outside of school Michelle volunteers for the Slovene National Benefit Society of San Francisco as a proud third-generation Slovenian-American and has been awarded the title of “Kru” by the Thai Ministry of Education for her active engagement in the sport of Muay Thai.
+Outside of school Michelle volunteers for the Slovene National Benefit Society of San Francisco as a proud third-generation Slovenian-American and has been awarded the title of “Kru” by the Thai Ministry of Education for her active engagement in the sport of Muay Thai."
 
-
-  "
   avatar:      /assets/images/von Merta-Sustarich.jpg
   member:      true
   current:     true
 
 ## Former members
+
+leung-ryan:
+  name: Ryan Leung
+  bio: Enzyme Kinetics Specialist
+  member: true
+  current: false
+  start: 2023
+  end: 2025
+  next: Phlebotomist-in-training
+
+meija-emilio:
+  name: Emilio Meija, M.S.
+  bio: Structural Enzymology Specialist
+  member: true
+  current: false
+  start: 2023
+  end: 2025
+  next: Staff Research Associate III, UCSF Clinical Laboratory
 
 hales-madison:
   name:        Madison Hales
