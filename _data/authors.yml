@@ -50,7 +50,7 @@ Outside the lab, Danya enjoys spending time with friends, going on walks, and sk
 
 ahmad-jeanan:
   name:        Jeanan Ahmad
-  bio:         4th year B.S. Biochemistry Student
+  bio:         Graduate Student
   fullbio:     "Jeanan is currently working on 'Team Argininosuccinate Synthetase (ASS1)' with the goal of understanding the binding of ASS1 to NMRAL1 and seeing how it impacts theh structure and activity of ASS1.
 
 
@@ -82,20 +82,17 @@ bautista-andrew:
 
 domingo-jerrade:
   name:        Jerrade Domingo (he/him)
-  bio:         4th year B.S. Biochemistry Student
-  fullbio:     "Jerrade is studying the mechanisms behind post-translational modifications, specifically S-nitrosylation, with a focus on the Cys-132 (C132) and how it inhibits argininosuccinate synthetase 1 (ASS1) activity. C132 variants of interest to observe oxidation dependent activity of ASS1.
-
-
-  In his spare time Jerrade loves to play basketball, try new and weird coffee, and wrestle with his annoying dog.
-
-  "
+  bio:         Argininosuccinate synthetase biochemist
   avatar:      /assets/images/domingo.jpg
   member:      true
-  current:     true
+  current:     false
+  start:       Fall 2025
+  end:         Spring 2026
+  next:        Pharmacy School, UCSF
 
 geluz-cyrina:
   name:        Cyrina Geluz (she/her)
-  bio:         4th year B.S. Biochemistry Student
+  bio:         Graduate Student
   fullbio:     "Cyrina is pursuing a B.S. in Biochemistry at San Francisco State University and is one of the first members of the once nascent Greene lab. She is an expert in protein visualization and biochemistry, having worked on several projects including bioinformatics focused on exploring human glutamine synthetase. Currently, she is working on investigating a conserved oligomeric interface in human glutamine synthetase and the impact of disease variants at this interface.
 
 
@@ -131,15 +128,12 @@ hernandez-emily:
 
 jacobs-rowan:
   name:        Rowan Jacobs (he/him)
-  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
-  fullbio:     "Rowan is working on high throughput screening of cytosolic metabolites for allosteric activity affecting GS. 
-  
-  
-  When not in the lab, he enjoys video games, spending time with his cat, and listening to electronic music.
-  "
+  bio:         Metabolite Screening Entrepreneur
   avatar:      /assets/images/jacobs.jpg
   member:      true
-  current:     true
+  current:     false
+  start:       Summer 2024
+  end:         Spring 2026
 
 sherry-patrick:
   name:        Patrick Sherry (he/him)
@@ -170,17 +164,72 @@ tecson-markus:
 
 von-Merta-Sustarich-Michelle:
   name:        Michelle Von Merta-Sustarich (she/her)
-  bio:         2nd year M.S. Student in Chemistry (conc in Biochemistry)
-  fullbio:     "Michelle Von Merta-Sustarich is pursuing her M.S. in Biochemistry and received her bachelor’s in Biochemistry from University of California Berkeley. Her research is focusing on ensemble-function relationships governing Argininosuccinate synthase regulation and how it relates to cancer.
-
-
-Outside of school Michelle volunteers for the Slovene National Benefit Society of San Francisco as a proud third-generation Slovenian-American and has been awarded the title of “Kru” by the Thai Ministry of Education for her active engagement in the sport of Muay Thai."
-
+  bio:         Argininosuccinate synthetase Entrepreneur
   avatar:      /assets/images/von Merta-Sustarich.jpg
+  member:      true
+  current:     false
+  start:       Summer 2024
+  end:         Spring 2026
+  next:        Intern, Columbia University; incoming Ph.D. student, University of Nevada Las Vegas
+
+atenga-aaliyah:
+  name:        Aaliyah Atenga
+  bio:         Sophomore Undergraduate
+  fullbio:     "Aaliyah is a sophomore undergraduate working on glutamine synthetase disease mutations."
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     true
+
+carrillo-nathalie:
+  name:        Nathalie Carrillo
+  bio:         Junior Undergraduate
+  fullbio:     "Nathalie is a junior undergraduate working on metabolite screening for glutamine synthetase and argininosuccinate synthetase."
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     true
+
+martel-alex:
+  name:        Alex Martel
+  bio:         Senior Undergraduate
+  fullbio:     "Alex is a senior undergraduate working on glutamine synthetase disease mutations."
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     true
+
+paprocki-marlo:
+  name:        Marlo Paprocki
+  bio:         BLEND M.S. Student
+  fullbio:     "Marlo is a BLEND M.S. student working on glutamine synthetase disease mutations."
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     true
+
+rascon-celeste:
+  name:        Celeste Rascon
+  bio:         Senior Undergraduate
+  fullbio:     "Celeste is a senior undergraduate working on glutamine synthetase disease mutations."
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     true
+
+schlauraff-john:
+  name:        John Schlauraff
+  bio:         Sophomore Undergraduate
+  fullbio:     "John is a sophomore undergraduate working on glutamine synthetase disease mutations."
+  avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
 
 ## Former members
+
+aho-sophie:
+  name:        Sophie Aho
+  bio:         Structural Ensemble Navigator
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     false
+  start:       Spring 2026
+  end:         Spring 2026
 
 leung-ryan:
   name: Ryan Leung
