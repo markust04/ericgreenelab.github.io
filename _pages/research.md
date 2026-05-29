@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Our Research"
 ---
 
 {% assign interests = site.research | sort: "index" %}
